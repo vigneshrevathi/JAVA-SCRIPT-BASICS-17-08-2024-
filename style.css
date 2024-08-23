@@ -1,0 +1,17 @@
+#get-input{
+    padding: 12px;
+}
+#input-button{
+    margin-left: 20px;
+    padding: 12px 30px 11px 22px;
+    background-color: turquoise;
+    border: none;
+    color: white;
+}
+#list-container{
+    list-style: none;
+    background-color: cadetblue;
+    padding: 18px;
+    font-size: 28px;
+    color: white;
+}
